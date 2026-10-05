@@ -30,4 +30,5 @@
 
 개발 참여는 초대로 진행합니다. 함께하고 싶다면 [디스코드](https://discord.gg/valorantkorea)로 연락해 주세요.
 
-<sub>VALORANT는 Riot Games, Inc.의 상표입니다. LEAGUE KOREA는 Riot Games가 보증하거나 후원하지 않습니다.</sub>
+<sub>본 서비스는 Riot Games, Inc. 및 Discord Inc. 와 제휴 관계가 없으며, 두 회사가 승인하거나 후원하지 않습니다. VALORANT 및 Riot Games 는 Riot Games, Inc. 의 상표 또는 등록상표입니다.<br>
+LEAGUE KOREA isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.</sub>
